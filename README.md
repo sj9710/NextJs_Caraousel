@@ -1,4 +1,4 @@
-# Installation,Dependency and Screenshot
+# Installation
 1. git clone https://github.com/sj9710/NextJs_Caraousel.git
 2. cd NextJs_Caraousel-master
 3. npm run dev
