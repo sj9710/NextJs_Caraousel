@@ -1,2 +1,11 @@
-# How to run the NextJs Caraousel
-1. 
+# Installation,Dependency and Screenshot
+1. git clone https://github.com/sj9710/NextJs_Caraousel.git
+2. cd NextJs_Caraousel-master
+3. npm run dev
+
+# Dependency
+1. zeit/next-css
+2. next-images
+3. slick-carousel
+
+
