@@ -1,2 +1,2 @@
-# Vidyalai
- Internship_Task
+# How to run the NextJs Caraousel
+1. 
