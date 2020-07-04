@@ -27,39 +27,39 @@ export default function Home() {
   const data = [
     {
       image: img,
-      name: "Sid",
-      degree: "lorem ipsum",
-      subject: "something"
+      name: "Siddhant",
+      degree: "MCA, MIT",
+      subject: "Math Mage"
     },
     {
       image: img,
-      name: "abid",
-      degree: "lorem ipsum",
-      subject: "something"
+      name: "Abid",
+      degree: "MCA, NIT",
+      subject: "Physics"
     },
     {
       image: img,
-      name: "Sidsd",
-      degree: "lorem ipsum",
-      subject: "something"
+      name: "Adarsh",
+      degree: "B.Tech, IIT Madras",
+      subject: "Economics"
     },
     {
       image: img,
-      name: "Sid",
-      degree: "lorem ipsum",
-      subject: "something"
+      name: "Rushil",
+      degree: "M.Tech, IIIT-B",
+      subject: "Data Scientist"
     },
     {
       image: img,
-      name: "Sid",
-      degree: "lorem ipsum",
-      subject: "something"
+      name: "Roy",
+      degree: "MS CS, DTU",
+      subject: "Web Developer"
     },
     {
       image: img,
-      name: "Sid",
-      degree: "lorem ipsum",
-      subject: "something"
+      name: "Rahul",
+      degree: "B.Tech, IIT-Delhi",
+      subject: "Physicist"
     } 
   ]
 
@@ -199,18 +199,6 @@ export default function Home() {
           justify-content: center;
           font-size: 22px;
       }
-
-      // .team-prev-btn {
-      //   top: 50%;
-      //   translate: transformY(-50%);
-      //   left: 20px;
-      // }
-      // .team-next-btn {
-      //   top: 50%;
-      //   translate: transformY(-50%);
-      //   right: 20px;
-      // }
-
       }
       `}</style>
     </div>
