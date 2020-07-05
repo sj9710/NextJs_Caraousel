@@ -1,7 +1,8 @@
 # Installation
 1. git clone https://github.com/sj9710/NextJs_Caraousel.git
 2. cd NextJs_Caraousel-master
-3. npm run dev
+3. npm i
+4. npm run dev
 
 # Dependency
 1. zeit/next-css
